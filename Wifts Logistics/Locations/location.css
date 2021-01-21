@@ -1,0 +1,17 @@
+#footer {
+  background-color: teal;
+  color: rgb(211, 204, 204);
+}
+
+#footer hr {
+  width: 30%;
+  background-color: tomato;
+}
+
+.hero-head h1 {
+  font-family: "Arvo", serif;
+}
+
+#main-body {
+  background-image: url(/img/map.jpg);
+}

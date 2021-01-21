@@ -1,0 +1,24 @@
+#section-heading {
+  margin-bottom: 50px;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #008080;
+}
+
+#footer {
+  background-color: #008080;
+  color: rgb(211, 204, 204);
+}
+
+#footer hr {
+  width: 30%;
+  background-color: tomato;
+}
