@@ -21,3 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
+$(window).on("load", function () {
+  $(".l-container").fadeOut(3000);
+});
